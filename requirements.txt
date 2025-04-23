@@ -1,0 +1,5 @@
+pixivpy3>=3.7.0
+python-dotenv>=0.15.0
+requests>=2.25.1
+schedule>=1.0.0
+pathlib>=1.0.1 

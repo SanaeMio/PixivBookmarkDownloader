@@ -1,0 +1,1 @@
+python pixiv_bookmark_downloader.py

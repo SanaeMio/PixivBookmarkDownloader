@@ -1,0 +1,4 @@
+{
+  "title": "收藏夹增量下载完成，新增{success}张",
+  "content": "🚀 本次共处理{total}张图片，✅ 成功{success}张，❌ 失败{fail}张\n⏰ 推送时间：{time}"
+}
